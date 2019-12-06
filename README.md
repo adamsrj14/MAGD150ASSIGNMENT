@@ -1,1 +1,1 @@
-# MAGD150ASSIGNMENT
+# GH-Pages
